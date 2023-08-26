@@ -43,3 +43,7 @@ Very happy that I am living.[^1]
 - [x] task1
 - [ ] task2
 - [ ] task3
+
+| title | data | time |
+| ----- | ---- | ---- |
+| head | tata | dime |
