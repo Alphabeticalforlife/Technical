@@ -24,3 +24,5 @@ Introducing AI-Enhanced Supply Chain Management Software
   + 
 
 Data-Driven Decision Making and Predictive Analytics
+
+[Click here]{https://www.techtarget.com/whatis/definition/white-paper}
