@@ -13,7 +13,14 @@ Introducing AI-Enhanced Supply Chain Management Software
 3. howdy
 2. partner
 
-How Software Excellence Fuels Business Performance
-Streamlined Inventory Management and Demand Forecasting
-Real-time Tracking and Visibility Across the Supply Chain
+* How Software Excellence Fuels Business Performance
+* 
+
++ Streamlined Inventory Management and Demand Forecasting
++ 
+
+- Real-time Tracking and Visibility Across the Supply Chain
+- + fwe
+  + 
+
 Data-Driven Decision Making and Predictive Analytics
