@@ -33,8 +33,9 @@ Data-Driven Decision Making and Predictive Analytics
 
 ```hi
 
-happy that I am living.[^1]
+Very happy that I am living.[^1]
+
+[^1] This is my footnote
 
 
-
-```Quote```
+~~~Quote~~~
