@@ -30,3 +30,5 @@ Data-Driven Decision Making and Predictive Analytics
 ![indian-astronaut-walk-moon-indian-flag-waving-background](https://github.com/Alphabeticalforlife/Technical/assets/143288292/737d79da-101f-4c8b-b07e-c253381cec9d)
 
 > This orchestration, covering timely production, efficient product flow, and flawless distribution, remains an unswerving gauge of a business's triumph.
+
+```This orchestration, covering timely production, efficient product flow, and flawless distribution, remains an unswerving gauge of a business's triumph.
