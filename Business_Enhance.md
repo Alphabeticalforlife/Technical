@@ -33,5 +33,7 @@ Data-Driven Decision Making and Predictive Analytics
 
 ```hi
 
-Here is a sample footnote [^1]
+happy that I am living.[^1]
+
+
 [^1]This is my footnote
