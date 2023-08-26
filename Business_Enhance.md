@@ -26,3 +26,5 @@ Introducing AI-Enhanced Supply Chain Management Software
 Data-Driven Decision Making and Predictive Analytics
 
 [Click here]{https://www.techtarget.com/whatis/definition/white-paper}
+
+![indian-astronaut-walk-moon-indian-flag-waving-background](https://github.com/Alphabeticalforlife/Technical/assets/143288292/737d79da-101f-4c8b-b07e-c253381cec9d)
