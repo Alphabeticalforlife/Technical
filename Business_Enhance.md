@@ -40,6 +40,6 @@ Very happy that I am living.[^1]
 
 ```Quote```
 
--[x] task1
--[] task2
--[] task3
+- [x] task1
+- [] task2
+- [] task3
